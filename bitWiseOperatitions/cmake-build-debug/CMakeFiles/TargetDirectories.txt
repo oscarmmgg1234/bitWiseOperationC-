@@ -1,0 +1,3 @@
+/Users/oscy/Documents/C+++/bitWiseOperatitions/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/oscy/Documents/C+++/bitWiseOperatitions/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/oscy/Documents/C+++/bitWiseOperatitions/cmake-build-debug/CMakeFiles/bitWiseOperatitions.dir
